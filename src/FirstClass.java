@@ -3,7 +3,7 @@ public class FirstClass {
     public static void main(String[] args) {
         System.out.println("Hello??");
 
-        printMyMessage("KKK");
+        printMyMessage("World");
     }
 
     private static void printMyMessage(String text) {
